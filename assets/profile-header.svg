@@ -1,0 +1,68 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Odos Matthews</title>
+  <desc id="desc">Typed systems, thoughtful APIs, shipped tools</desc>
+  <defs>
+    <linearGradient id="background" x1="74" y1="12" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.48" stop-color="#10243B"/>
+      <stop offset="1" stop-color="#0B1728"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="186" y1="52" x2="1057" y2="284" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.48" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(1058 42) rotate(134.4) scale(276 398)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(160 284) rotate(-28) scale(327 224)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#C4D8F2" stroke-opacity="0.06"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#glowA)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#glowB)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#grid)"/>
+
+  <path d="M82 70H1198" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.88"/>
+  <circle cx="82" cy="70" r="5" fill="#67E8F9"/>
+  <circle cx="1198" cy="70" r="5" fill="#FBBF24"/>
+
+  <g opacity="0.78">
+    <path d="M1020 126L1076 94L1132 126V190L1076 222L1020 190V126Z" stroke="#A78BFA" stroke-width="2"/>
+    <path d="M1076 94V158M1020 126L1076 158L1132 126M1076 158V222" stroke="#A78BFA" stroke-width="1.5" stroke-opacity="0.66"/>
+    <circle cx="1076" cy="158" r="10" fill="#A78BFA" fill-opacity="0.16" stroke="#C4B5FD"/>
+    <circle cx="1020" cy="126" r="6" fill="#67E8F9"/>
+    <circle cx="1132" cy="126" r="6" fill="#FBBF24"/>
+    <circle cx="1076" cy="222" r="6" fill="#34D399"/>
+  </g>
+
+  <circle cx="1076" cy="158" r="78" stroke="url(#accent)" stroke-width="8" opacity="0.12" filter="url(#softGlow)"/>
+
+  <text x="82" y="148" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="720" letter-spacing="-1.8">Odos Matthews</text>
+  <text x="84" y="193" fill="#C7D7EB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="480" letter-spacing="0.25">typed systems  ·  thoughtful APIs  ·  shipped tools</text>
+
+  <g transform="translate(84 229)">
+    <rect width="116" height="36" rx="18" fill="#67E8F9" fill-opacity="0.10" stroke="#67E8F9" stroke-opacity="0.35"/>
+    <text x="58" y="24" text-anchor="middle" fill="#A5F3FC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="650">PYTHON</text>
+  </g>
+  <g transform="translate(212 229)">
+    <rect width="92" height="36" rx="18" fill="#FBBF24" fill-opacity="0.10" stroke="#FBBF24" stroke-opacity="0.35"/>
+    <text x="46" y="24" text-anchor="middle" fill="#FDE68A" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="650">RUST</text>
+  </g>
+  <g transform="translate(316 229)">
+    <rect width="154" height="36" rx="18" fill="#A78BFA" fill-opacity="0.10" stroke="#A78BFA" stroke-opacity="0.35"/>
+    <text x="77" y="24" text-anchor="middle" fill="#DDD6FE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="650">OPEN SOURCE</text>
+  </g>
+
+  <rect x="1" y="1" width="1278" height="318" rx="23" stroke="#E2E8F0" stroke-opacity="0.10" stroke-width="2"/>
+</svg>
