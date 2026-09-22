@@ -7,6 +7,7 @@
   <a href="https://pypi.org/user/eddiethedean/"><img src="https://img.shields.io/badge/PyPI-packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="Packages on PyPI" /></a>
   <a href="https://crates.io/users/eddiethedean"><img src="https://img.shields.io/badge/crates.io-Rust_libraries-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Libraries on crates.io" /></a>
   <a href="https://www.npmjs.com/org/lessonkit"><img src="https://img.shields.io/badge/npm-LessonKit-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="LessonKit on npm" /></a>
+  <a href="https://buymeacoffee.com/odosmatthews"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 </p>
 
 I design and ship open-source developer tools where **strong types**, **fast runtimes**, and **clear product thinking** meet. My work spans Python and Rust data systems, embedded databases, semantic-web tooling, server-rendered UI, and learning infrastructure.
